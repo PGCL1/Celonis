@@ -1,6 +1,6 @@
 # Celonis Case Study
 
-This project began with an analysis of a business travel dataset with the primary objective of calculating the carbon emissions associated with business trips and deriving actionable insights.
+This project began with an analysis of a business travel dataset with the primary objective of calculating the carbon emissions associated with business trips and deriving actionable insights. [click here for more information](https://github.com/PGCL1/Celonis/blob/main/executiveSummary.md)
 
 ## Installation
 
