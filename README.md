@@ -1,6 +1,6 @@
 # Celonis Case Study
 
-This project began with an analysis of a business travel dataset with the primary objective of calculating the carbon emissions associated with business trips and deriving actionable insights. [click here for more information](https://github.com/PGCL1/Celonis/blob/main/executiveSummary.md)
+This is my take on Celonis' case study for the Product Sustainability Intern position. I would like to thank Celonis for the opportunity as well as the Product team for their support. I had a lot of fun and wrote an executive summary to better illustrate my train of thought and finding [click here for more information](https://github.com/PGCL1/Celonis/blob/main/executiveSummary.md)
 
 ## Installation
 
