@@ -19,8 +19,8 @@ python3 -m venv myenv
 source myenv/bin/activate
 
 # install the necessary packages
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 
 # create a .env file and input the API_KEY
-echo "API_KEY=\"<your-api-key>\" > .env"
+echo "API_KEY=\"<your-api-key>\"" > .env
 ```
