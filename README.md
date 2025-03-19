@@ -24,3 +24,4 @@ pip install -r requirements.txt
 # create a .env file and input the API_KEY
 echo "API_KEY=\"<your-api-key>\"" > .env
 ```
+Now go to notebook.ipynb and start from the top!
